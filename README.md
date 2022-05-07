@@ -1,7 +1,7 @@
-### Hello I am Nafiz from Bangladesh.
-# Academic E-mail: 2520190011@mail.jxust.edu.cn
-# Personal E-mail: nafizmdimtiazuddin@yahoo.com
-# Linkedin profile: https://github.com/nafizmd09
+# Hello I am Nafiz from Bangladesh. My Major is Computer Science and Technology.
+- Academic E-mail: 2520190011@mail.jxust.edu.cn
+- Personal E-mail: nafizmdimtiazuddin@yahoo.com
+- Linkedin profile: https://github.com/nafizmd09
 
 <!--
 **nafizmd09/nafizmd09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
