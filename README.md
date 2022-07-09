@@ -20,9 +20,5 @@
 
 ## Publish slide and document links:
 👉 Click presentation and document [Slide Share](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
-👉
-👉
-👉
-👉
-👉
+
 
