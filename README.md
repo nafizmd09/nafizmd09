@@ -18,7 +18,6 @@
 <img align="left" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
 <br>
 
-## Publish slide and document links:
-👉 Click presentation and document [Slide Share](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
+## 👉 Click for my publishing presentation and document [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
 
 
