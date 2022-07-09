@@ -6,6 +6,8 @@
 - Personal E-mail: nafizmdimtiazuddin@yahoo.com
 - Click [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
+## 👉 Click [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
+
 ### My preferable language and tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,6 +24,5 @@
 <img align="left" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <br>
 
-## 👉 Click [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
 
 
