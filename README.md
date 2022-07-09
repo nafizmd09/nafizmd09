@@ -19,10 +19,10 @@
 <br>
 
 ## Publish slide and document links:
-👉 Click [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
+👉 Click presentation and document [Slide Share](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
 👉
 👉
 👉
 👉
 👉
-<iframe src="https://www.slideshare.net/NafizMdImtiazUddin/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
