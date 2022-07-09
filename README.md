@@ -18,7 +18,6 @@
 <img align="left" alt="Ruby" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt="Ruby" width="35px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" alt="Ruby" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <br>
