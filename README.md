@@ -1,4 +1,4 @@
-# Hello I am Nafiz. My Major is Computer Science and Technology.
+# Hello I am Imtiaz. My Major is Computer Science and Technology.
 ## Student of Jiangxi University of Science and Technology(江西理工大学) 
 
 ### Bachelor of Science(2019-2023)
