@@ -1,6 +1,5 @@
-# <p>
-  <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
-</p>
+# <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
+
 
 ## Student of Jiangxi University of Science and Technology(江西理工大学) 
 ## Major: Computer Science and Technology
