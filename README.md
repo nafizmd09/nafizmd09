@@ -1,5 +1,6 @@
-# Hello I am Imtiaz. My Major is Computer Science and Technology.
+# <center>Hello I am Imtiaz. </center>
 ## Student of Jiangxi University of Science and Technology(江西理工大学) 
+## Major: Computer Science and Technology
 
 ### Bachelor of Science(2019-2023)
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
