@@ -6,7 +6,6 @@
 - Personal E-mail: nafizmdimtiazuddin@yahoo.com
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
-https://www.credly.com/earner/earned/badge/30aceb38-0184-4fd0-9255-5c5a37383c30
 
 ## 👉 Click [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
 
