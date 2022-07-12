@@ -1,5 +1,5 @@
 # <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
-## Student of Jiangxi University of Science and Technology(江西理工大学) 
+## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China
 ## Major: Computer Science and Technology
 
 ### Bachelor of Science(2019-2023)
