@@ -8,7 +8,7 @@
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
-## 👉 Click [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
+## 👉 Click -> [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin/slideshelf/)
 
 ### My preferable language and tools:
 
