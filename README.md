@@ -1,4 +1,5 @@
 # <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
+## #C++ developer | #Python developer | #OpenCV | Web developer | Linux developer 
 ## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China
 ## Major: Computer Science and Technology
 
