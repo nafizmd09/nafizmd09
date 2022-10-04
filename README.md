@@ -9,7 +9,7 @@
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
-## 👉 Click -> [Slide Share link](https://www.slideshare.net/NafizMdImtiazUddin)
+## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
 ### My preferable language and tools:
 
