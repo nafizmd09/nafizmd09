@@ -9,7 +9,7 @@
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
-## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
+## 👉 Click -> [ResearchGate](https://www.slideshare.net/NafizMdImtiazUddin)
 
 ## 👉 Click -> [SlideShare](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
 
