@@ -3,15 +3,17 @@
 ## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China
 ## Major: Computer Science and Technology
 
-### Bachelor of Science(2019-2022)
+
+## 👉 Click -> [ResearchGate](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
+
+## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
+
+### Bachelor of Science(2019-2023)
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
 - Personal E-mail: nafizmdimtiazuddin@yahoo.com
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
-## 👉 Click -> [ResearchGate](https://www.slideshare.net/NafizMdImtiazUddin)
-
-## 👉 Click -> [SlideShare](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
 
 ### My preferable language and tools:
 
