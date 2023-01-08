@@ -11,6 +11,8 @@
 
 ## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
+## 👉 Click -> [SlideShare](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
+
 ### My preferable language and tools:
 
 
