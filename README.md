@@ -1,9 +1,9 @@
 - <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
-## Software Developer | Data Science | Machine Learning | Computer Vision | Deep Learning | Social Ambassador
+### Software Developer | Data Science | Machine Learning | Computer Vision | Deep Learning | Social Ambassador
 
-## 👉 Click -> [ResearchGate](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
+### 👉 Click -> [ResearchGate](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
 
-## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
+### 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
 ## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China (2019-2023)
 ## Major: Computer Science and Technology
