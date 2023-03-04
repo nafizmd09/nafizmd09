@@ -5,9 +5,9 @@
 
 ### 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
-## Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China (2019-2023)
-## Major: Computer Science and Technology
-### Bachelor of Engineering(2019-2023)
+<!-- ### Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China (2019-2023)
+### Major: Computer Science and Technology
+### Bachelor of Engineering(2019-2023) -->
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
 - Personal E-mail: nafizmdimtiazuddin@yahoo.com
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
