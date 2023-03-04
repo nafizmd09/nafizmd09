@@ -1,14 +1,13 @@
-# <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
-## #C++ developer | #Python developer | #OpenCV | Web developer | Linux developer 
-## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China
-## Major: Computer Science and Technology
-
+- <h1 align="center"><b>Hello there, I'm Imitaz 👋</b></h1>
+## Software Developer | Data Science | Machine Learning | Computer Vision | Deep Learning | Social Ambassador
 
 ## 👉 Click -> [ResearchGate](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
 
 ## 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
-### Bachelor of Science(2019-2023)
+## Student of Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China (2019-2023)
+## Major: Computer Science and Technology
+### Bachelor of Engineering(2019-2023)
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
 - Personal E-mail: nafizmdimtiazuddin@yahoo.com
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
