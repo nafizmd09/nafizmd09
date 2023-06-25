@@ -9,7 +9,7 @@
 ### Major: Computer Science and Technology
 ### Bachelor of Engineering(2019-2023) -->
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
-- Personal E-mail: nafizmdimtiazuddin@yahoo.com
+- Personal E-mail: nafizmdimtiazuddin@outlook.com
 - Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
