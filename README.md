@@ -2,7 +2,7 @@
 ### Research Assistant | Software Developer | Data Science | Machine Learning | Computer Vision | Deep Learning | Social Ambassador
 
 ### 👉 Click -> [ResearchGate](https://www.researchgate.net/profile/Nafiz-Md-Uddin)
-
+### 👉 Click -> [Linkedin](https://www.linkedin.com/in/nafizmd09/)
 ### 👉 Click -> [SlideShare](https://www.slideshare.net/NafizMdImtiazUddin)
 
 <!-- ### Jiangxi University of Science and Technology(江西理工大学) -Jiangxi, China (2019-2023)
@@ -10,7 +10,6 @@
 ### Bachelor of Engineering(2019-2023) -->
 - Academic E-mail: 2520190011@mail.jxust.edu.cn
 - Personal E-mail: nafizmdimtiazuddin@outlook.com
-- Click my [Linkedin profile](https://www.linkedin.com/in/nafizmd09/)
 
 
 
